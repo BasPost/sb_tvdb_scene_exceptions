@@ -17,6 +17,6 @@ Remember that this list overrides the original name, it doesn't append to it. So
 
 Exceptions should be of the format:
 
-tvdb_id: 'Name 1', 'Name 2', ..., 'Name N'
+      tvdb_id: 'Name 1', 'Name 2', ..., 'Name N'
 
 Apostrophes inside the show name should be escaped with a backslash ('Show\'s Name').
