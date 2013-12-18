@@ -305,6 +305,8 @@
 267709: 'Kesha My Crazy Beautiful Life',
 75166: 'The Biggest Loser US',
 275493: 'Backchat With Jack Whitehall And His Dad',
+275777: 'Wild Burma',
+256394: 'Lab Rats',
 247897: 'HOMELAND (2013)',
 258171: 'Continuum (2013)',
 153021: 'The Walking Dead (2013)',
